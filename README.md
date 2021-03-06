@@ -2,7 +2,7 @@
 
 [![Header](https://raw.githubusercontent.com/danielcregg/danielcregg/master/readme_header.png "Header")](https://martinheinz.dev/)
 
-# Hello! <img src="https://raw.githubusercontent.com/danielcregg/danielcregg/master/wave.gif" width="30px">
+# Hello! <img src="https://github.com/danielcregg/danielcregg/blob/41ca21c3df1a2b4ab114b8b45a5b2a2eafeae8b3/wave.gif" width="30px">
 
 My name is Daniel Cregg and I'm a Lecturer/Software Developer. I'm from Ireland.
 
