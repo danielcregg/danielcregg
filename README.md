@@ -4,7 +4,7 @@
 
 # Hello! <img src="https://raw.githubusercontent.com/danielcregg/danielcregg/master/wave.gif" width="30px">
 
-My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava and currently working at IBM. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Daniel Cregg and I'm a Lecturer/Software Developer. I'm from Ireland.
 
 ## &#x270d; Blog & Writing
 
